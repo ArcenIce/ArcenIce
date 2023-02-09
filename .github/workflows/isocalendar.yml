@@ -1,17 +1,17 @@
-name: Full-year calendar
+name: Followers
 jobs:
-  github-isocalendar-metrics:
+  followers:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
-      - with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+    - uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.people.followers.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_people: yes
+        plugin_people_types: followers
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
