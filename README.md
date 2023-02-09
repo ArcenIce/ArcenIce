@@ -1,4 +1,6 @@
-### Hi there 👋
+<img align="center" src="/github-metrics.svg" alt="Metrics">
+
+<img align="center" src="/metrics.plugin.people.followers.svg" alt="Followers">
 
 <!--
 **ArcenIce/ArcenIce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
