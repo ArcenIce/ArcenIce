@@ -7,7 +7,7 @@
   <img src="/metrics.plugin.people.followers.svg" alt="Followers">
   <br>
 
-  [![Stats github](https://github-readme-stats.vercel.app/api?username=ArcenIce&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github- readme-stats#gh-dark-mode-only)
+  [![Stats github](https://github-readme-stats.vercel.app/api?username=ArcenIce&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
   
 </div>
 
